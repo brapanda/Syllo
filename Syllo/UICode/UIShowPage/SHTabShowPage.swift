@@ -9,11 +9,12 @@
 import Foundation
 import UIKit
 
-class SHTabShowPage: SHCommonSetting {
+class SHTabShowPage: NTWaterfallViewController{
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.collectionView?.setCollectionViewLayout(CHTCollectionViewWaterfallLayout(), animated: false)
         // Do any additional setup after loading the view.
     }
     

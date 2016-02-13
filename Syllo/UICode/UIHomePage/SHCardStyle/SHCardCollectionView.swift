@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class SHCollectionView: TGLStackedViewController {
+class SHCardCollectionView: TGLStackedViewController {
     var doubleTapToClose : Bool = false
     var cards = [UIColor.yellowColor(),UIColor.grayColor(),UIColor.greenColor(),UIColor.redColor(),UIColor.yellowColor(),UIColor.grayColor(),UIColor.greenColor(),UIColor.yellowColor(),UIColor.grayColor(),UIColor.greenColor(),UIColor.yellowColor(),UIColor.grayColor(),UIColor.greenColor(),UIColor.yellowColor(),UIColor.grayColor(),UIColor.greenColor()]
     var screenSize = UIScreen.mainScreen().bounds

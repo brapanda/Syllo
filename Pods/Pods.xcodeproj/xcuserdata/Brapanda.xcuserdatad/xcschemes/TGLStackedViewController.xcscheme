@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4D741F9382D684BAF922DC8A"
+               BlueprintIdentifier = "364CEC1FC3CCAAAFD019832B"
                BuildableName = "libTGLStackedViewController.a"
                BlueprintName = "TGLStackedViewController"
                ReferencedContainer = "container:Pods.xcodeproj">
