@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		8E29706ECD8E79B88F3E4E2D16B2C38C /* PBXContainerItemProxy */ = {
+		835C29B3865FE801EEF5B16E692D4BFA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
@@ -190,7 +190,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				EB209B8DA62CD5B83162DD9FDA97A276 /* PBXTargetDependency */,
+				0845A5EBCD3813C6B8049F447C209AB0 /* PBXTargetDependency */,
 			);
 			name = Pods;
 			productName = Pods;
@@ -264,11 +264,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		EB209B8DA62CD5B83162DD9FDA97A276 /* PBXTargetDependency */ = {
+		0845A5EBCD3813C6B8049F447C209AB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = TGLStackedViewController;
 			target = 4767470BED4F934CF6292C05CA8DF733 /* TGLStackedViewController */;
-			targetProxy = 8E29706ECD8E79B88F3E4E2D16B2C38C /* PBXContainerItemProxy */;
+			targetProxy = 835C29B3865FE801EEF5B16E692D4BFA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
